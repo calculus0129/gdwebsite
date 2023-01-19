@@ -1,0 +1,12 @@
+@charset"utf-8";
+	h1 { color: #fa0;}
+	table { color: #fff;}
+    table td { background-color: #ff0;
+			   color: #fff;
+			 }
+	a id { font-size: 300%;
+		   text-decoration:bold;
+		   color: #0ff;
+		   }
+	pre { color: #ffffff;}
+	body { background-color: #055;}
